@@ -1,0 +1,43 @@
+.a{
+    border:10px;
+    width: 1200px;
+    border-color: red;
+    border-style: solid;
+    
+}
+.b{
+    width:1150px;
+    height:60vh;
+    padding:15px;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+.c{
+    font-size: 25px;
+    font-style: "roboto";
+    color:brown;
+     text-align: center;
+     padding:5px;
+}
+.d{
+    font-size: 20px;
+    font-style: "roboto";
+    padding:10px;
+    float:left;
+    
+}
+.e{
+    font-size: 20px;
+    color:blue;
+}
+.slogan{
+    font-size: 20px;
+    color:brown;
+    text-align:center;
+}
+.image{
+    height: 300px;
+    width:500px;
+    margin-left: 10px;   
+}

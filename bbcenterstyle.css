@@ -1,0 +1,23 @@
+.a{
+    border-style: solid;
+    border-width: 10px;
+    border-color: crimson;
+    padding-left: 30px;
+    background-image: url("https://cdn.aarp.net/content/dam/aarp/health/healthy-living/2023/02/1140-blood-type-and-health.jpg");
+    background-repeat: no-repeat;
+   background-attachment:fixed;
+   width:1000px;
+}
+.b{
+    font-style: bold;
+    font-size: 25px;
+    font-family: roboto;
+    color: cornflowerblue;
+}
+.c{
+    font-size: 20px;
+}
+.d{
+    color: chocolate;
+    font-size: 20px;
+}

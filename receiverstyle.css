@@ -1,0 +1,24 @@
+.a{
+    text-align:center;
+    color:orangered;
+}
+.b{
+    text-align:center;
+    color:darkmagenta;
+    font-size:25px;
+    margin-left:250px;
+}
+.c{
+    margin-left:15px;
+    height:1000px;
+    width:1300px;
+}
+.d{
+    margin-left:50px;
+    color: darkred;
+    font-size:40px;
+}
+.e{
+    margin-left:55px;
+    font-size:25px;
+}

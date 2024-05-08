@@ -1,0 +1,25 @@
+.main-container{
+    padding: 40px;
+    font-family: "caveat";
+    border:solid 10px;
+    border-color:red ;
+}
+.paragraph{
+    color: royalblue;
+    font-size: 20px;
+    padding: 20px;
+}
+.main{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.heading2{
+    color:chocolate;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.a{
+    color: black;
+    font-size: 18px;
+    
+}
