@@ -2,7 +2,7 @@ from flask import Flask,render_template,request,redirect,url_for
 import sqlite3
 from twilio.rest import Client
 app=Flask(__name__)
-
+app.secret_key="Ayudhar"
 sid="AC0e13fc16bc95192b2277edb1f35d685f"
 token="7f267815c7c3e69c4735eea4986b6a9b"
 my_num="+14013710198"
